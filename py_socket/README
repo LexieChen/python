@@ -1,0 +1,10 @@
+## server.py ##
+ Transfer file server
+ Will receive the file from client and save as a file
+
+## client.py ##
+ Transfer file client
+ Will send the file to server
+
+## random_str.py ##
+ An assitant script to generate large file 
